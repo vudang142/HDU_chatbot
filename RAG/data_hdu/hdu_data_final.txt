@@ -1,0 +1,300 @@
+﻿* Tên trường: Trường Đại học Hồng Đức (HDU)
+* Mã trường: HDT
+* Địa chỉ:
+   * Cơ sở chính: Số 565 Quang Trung 3, phường Đông Vệ, thành phố Thanh Hóa
+   * Trung tâm Giáo dục Quốc phòng và An ninh: Phố Minh Trại, phường Quảng Thành, thành phố Thanh Hóa
+* Website: www.hdu.edu.vn
+* Liên hệ tuyển sinh:
+   * Điện thoại: 02373910619, 0918068689, 0975658958, 0913365168
+   * Email: tuyensinh@hdu.edu.vn
+* Công khai quy chế tuyển sinh:
+   * Quy chế: https://tuyensinh.hdu.edu.vn/de-an-tuyen-sinh-dhcd-chinh-quy.html
+   * Đề án thi năng khiếu: https://tuyensinh.hdu.edu.vn/danh-muc-quy-che-tuyensinh-hong-duc.html
+   * Mạng xã hội:
+      * https://www.facebook.com/groups/hdu.edu.vn
+      * https://www.facebook.com/DHHongDuc
+      * Đăng ký hồ sơ online: https://dxxt.hdu.edu.vn
+      * Tư vấn tuyển sinh: https://tuyensinh.hdu.edu.vn
+* Thông tin hoạt động:
+   * Chương trình đào tạo:
+      * 7 chương trình tiến sĩ
+      * 21 chương trình thạc sĩ
+      * 42 chương trình đại học
+   * Kiểm định chất lượng:
+      * Chu kỳ 2 (Quyết định số 593/QĐ-KĐCL, 09/8/2022)
+      * 26 chương trình kiểm định:
+         * Thạc sĩ: 5 chương trình (Quản trị kinh doanh, Khoa học máy tính, Quản lý giáo dục, Toán Giải tích, Lý luận và PPDH Bộ môn Văn - Tiếng Việt)
+         * Đại học: 21 chương trình (Giáo dục Tiểu học, Sư phạm Tiếng Anh, Sư phạm Toán học, Sư phạm Ngữ văn, Sư phạm Lịch sử, Sư phạm Địa lý, Giáo dục Thể chất, Giáo dục Mầm non, Sư phạm Hóa học, Sư phạm Vật lý, Sư phạm Sinh học, Quản trị kinh doanh, Công nghệ thông tin, Kế toán, Luật, Chăn nuôi, Du lịch, Tài chính - Ngân hàng, Kỹ thuật xây dựng, Kỹ thuật điện, Ngôn ngữ Anh)
+   * Danh mục chương trình đào tạo: https://hdu.edu.vn
+   * Ngành đào tạo: 42 ngành đại học (https://hdu.edu.vn/bao-cao-3-cong-khai.html)
+* Bảng 1: Đội ngũ giảng viên (Phụ lục 8, Trang 2)
+   * Giáo sư: 0
+   * Phó Giáo sư: 31
+   * Tiến sĩ: 167
+   * Thạc sĩ: 208
+   * Đại học: 11
+* Cơ sở vật chất:
+   * Tổng diện tích đất: 478.000 m² (46,4 ha)
+      * Cơ sở 565 Quang Trung: 384.000 m²
+      * Trung tâm Giáo dục Quốc phòng - An ninh: 94.000 m²
+   * Ký túc xá: 370 phòng, 2.600 chỗ ở
+   * Diện tích sàn xây dựng phục vụ đào tạo: 103.630 m²
+   * Thư viện: 2 trung tâm, 2.685 m²
+   * Phòng thí nghiệm, thực hành: 35 phòng, 4.920 m²
+   * Học liệu: 160.398 bản sách, 16.507 đầu sách (bao gồm sách điện tử)
+* Bảng 2: Diện tích đất (Trang 2)
+   * Cơ sở 565 Quang Trung, Đông Vệ: 384.000 m²
+   * Trung tâm Giáo dục Quốc phòng - An ninh: 94.000 m²
+   * Tổng cộng: 478.000 m²
+* Bảng 3: Diện tích sàn xây dựng phục vụ đào tạo (Trang 2)
+   * Hội trường, giảng đường, phòng học, phòng làm việc: 315 phòng, 25.250 m²
+      * Hội trường, phòng học lớn (>200 chỗ): 12 phòng, 3.000 m²
+      * Phòng học (100-200 chỗ): 23 phòng, 2.300 m²
+      * Phòng học (50-100 chỗ): 150 phòng, 13.500 m²
+      * Phòng học (<50 chỗ): 25 phòng, 1.500 m²
+      * Phòng học đa phương tiện: 15 phòng, 1.350 m²
+      * Phòng làm việc GS, PGS, giảng viên cơ hữu: 90 phòng, 3.600 m²
+   * Thư viện, trung tâm học liệu: 2 trung tâm, 2.685 m²
+   * Phòng thí nghiệm, thực hành, thực tập: 35 phòng, 4.920 m²
+   * Tổng diện tích sàn phục vụ đào tạo: 103.630 m²
+   * Tổng diện tích đất: 46,4 ha
+* Bảng 4: Thống kê học liệu (Trang 2-3)
+   * Khoa học giáo dục và đào tạo giáo viên: 78.335 bản, 5.451 đầu sách
+   * Nhân văn: 16.081 bản, 2.035 đầu sách
+   * Khoa học xã hội và hành vi: 34.636 bản, 3.665 đầu sách
+   * Báo chí và thông tin: 79 bản, 13 đầu sách
+   * Kinh doanh và quản lý: 6.167 bản, 802 đầu sách
+   * Pháp luật: 2.411 bản, 341 đầu sách
+   * Máy tính và công nghệ thông tin: 4.445 bản, 836 đầu sách
+   * Kỹ thuật: 5.682 bản, 635 đầu sách
+   * Nông, lâm nghiệp và thủy sản: 11.777 bản, 2.428 đầu sách
+   * Du lịch, khách sạn, thể thao và dịch vụ cá nhân: 299 bản, 44 đầu sách
+   * Môi trường và bảo vệ môi trường: 486 bản, 257 đầu sách
+* Quy mô đào tạo (tính đến 31/12/2024):
+   * Tổng: 11.087 sinh viên (Phụ lục 7)
+   * Đại học chính quy: 7.363 sinh viên
+   * Văn bằng 2 (VLVH): 3.724 sinh viên
+   * Công khai điều kiện đảm bảo chất lượng: [https://hdu.edu.vn/bao-cao-3-cong-khai.html](https:// - Tình hình việc làm:
+   * Khảo sát sinh viên nhập học 2019, tốt nghiệp 2023 (Phụ lục 4)
+   * Công khai: https://hdu.edu.vn/ket-qua-khao-sat-tinh-hinh-vieclam-cua-sinh-vien-chinh-quy-tot-nghiep-ra-truong-nam-2023.html
+* Kế hoạch tuyển sinh: Công khai tại https://hdu.edu.vn
+* Tuyển sinh 2023-2024:
+   * Phương thức: Xét tuyển, xét tuyển kết hợp thi năng khiếu
+   * Điểm trúng tuyển: Phụ lục 5, công khai tại https://tuyensinh.hdu.edu.vn
+________________
+
+
+B. Tuyển sinh đào tạo trình độ đại học năm 2025 (Trang 3-20)
+I. Tuyển sinh đào tạo chính quy
+1. Đối tượng, điều kiện: Thí sinh tốt nghiệp THPT hoặc Trung cấp
+2. Phạm vi: Toàn quốc
+3. Phương thức tuyển sinh (Trang 4):
+   * 5 phương thức (PT)
+* Bảng 5: Phương thức tuyển sinh (Trang 4)
+   * PT1: Sử dụng kết quả thi tốt nghiệp THPT 2025 (Mã: 100_PT2025)
+   * PT2: Sử dụng kết quả học tập THPT (Mã: 200_HB, chỉ ngành ngoài sư phạm)
+   * PT3: Tuyển thẳng theo Quy chế Bộ GDĐT (Mã: 301_TT)
+   * PT4: Tuyển thẳng theo Quy chế HDU (Mã: 303_TT)
+   * PT5: Sử dụng kết quả thi đánh giá năng lực/tư duy 2025 (Mã: 402_NLTD)
+4. Chỉ tiêu tuyển sinh: Dự kiến 2.690 chỉ tiêu (Phụ lục 1)
+   * Tối thiểu 90% cho PT1, PT2, PT5
+   * Tối đa 10% cho PT3, PT4 (ngành sư phạm)
+   * Công bố chính thức sau hướng dẫn của Bộ GDĐT
+5. Ngành, mã ngành, tổ hợp môn xét tuyển: 40 ngành (Trang 4-9)
+* Bảng 6: Ngành, mã ngành, tổ hợp môn xét tuyển (Trang 4-9)
+   * Sư phạm Toán học (7140209): A00 (Toán, Vật lý, Hóa), A01 (Toán, Vật lý, Anh), A04 (Toán, Vật lý, Địa), C01 (Toán, Vật lý, Văn)
+   * Sư phạm Vật lý (7140211): A00, A01, A02 (Toán, Vật lý, Sinh), A04, C01
+   * Sư phạm Hóa học (7140212): A00, B00 (Toán, Hóa, Sinh), C02 (Toán, Hóa, Văn), D07 (Toán, Hóa, Anh)
+   * Sư phạm Sinh học (7140213): A02, B00, B03 (Toán, Sinh, Văn), B04 (Toán, Sinh, GDCD), B08 (Toán, Sinh, Anh)
+   * Sư phạm Khoa học Tự nhiên (7140247): A00, A01, A02, C01
+   * Sư phạm Tin học (7140210): A00, A01, A04, C01
+   * Sư phạm Ngữ văn (7140217): C00 (Văn, Sử, Địa), C03 (Văn, Sử, Toán), C12 (Văn, Sử, Anh), C19 (Văn, Sử, GDCD)
+   * Sư phạm Lịch sử (7140218): C00, C12, C19, D14 (Văn, Sử, Anh)
+   * Sư phạm Địa lý (7140219): C00, C04 (Văn, Địa, Toán), C13 (Văn, Địa, Sinh), C20 (Văn, Địa, GDCD), D15 (Văn, Địa, Anh)
+   * Sư phạm Lịch sử - Địa lý (7140249): C00, C03, C13, C19, D14
+   * Sư phạm Tiếng Anh (7140231): A01, D01 (Anh, Toán, Văn), D09 (Anh, Toán, Sử), D10 (Anh, Toán, Địa), D84 (Anh, Toán, GDCD)
+   * Giáo dục Thể chất (7140206): T01 (Văn, Toán, Năng khiếu), T02 (Văn, Sinh, Năng khiếu), T05 (Văn, GDCD, Năng khiếu), T07 (Văn, Địa, Năng khiếu)
+   * Giáo dục Tiểu học (7140202): B03 (Văn, Toán, Sinh), C02 (Văn, Toán, Hóa), C04 (Văn, Toán, Địa), D01, M00 (Văn, Toán, Năng khiếu)
+   * Giáo dục Mầm non (7140201): M00, M05 (Văn, Sử, Năng khiếu), M07 (Văn, Địa, Năng khiếu), M11 (Văn, Anh, Năng khiếu)
+   * Toán học (7460101): C01, C02 (Toán, Văn, Hóa), C04 (Toán, Văn, Địa), D01
+   * Công nghệ thông tin (7480201): B03, C01, C02, C04, D01
+   * Truyền thông đa phương tiện (7320104): B03, C01, C04, D01
+   * Kỹ thuật điện (7520201): B03, C01, C02, C04, D01
+   * Kỹ thuật xây dựng (7580201): B03, C01, C02, C04, D01
+   * Chăn nuôi-Thú y (7620106): B03, C01, C02, C04, C14 (Toán, Văn, GDCD)
+   * Khoa học cây trồng (7620110): B03, C01, C02, C04, C14
+   * Quản lý đất đai (7850103): B03, C01, C02, C04, C14
+   * Kinh tế nông nghiệp (7620115): B03, C01, C02, C04, C14
+   * Quản trị kinh doanh (7340101): C01, C03 (Văn, Toán, Sử), C04, C14, D01
+   * Tài chính - Ngân hàng (7340201): C01, C03, C04, C14, D01
+   * Kế toán (7340301): C01, C03, C04, C14, D01
+   * Kiểm toán (7340302): C01, C03, C04, D01
+   * Kinh tế (7310101): C01, C03, C04, C14, D01
+   * Logistics và quản lý chuỗi cung ứng (7510605): C01, C03, C04, C14, D01
+   * Luật (7380101): C00, C03, C13 (Văn, Sử, Sinh), C19, D14
+   * Luật kinh tế (7380107): C01, C03, C04, C14, D01
+   * Chính trị học (7310201): C00, C03, C13, C19, D14
+   * Văn học (7229030): C00, C03, C13, C19, D14
+   * Công tác xã hội (7760101): B03, C03, C04, C14, D01
+   * Du lịch (7810101): B03, C03, C04, C14, D01
+   * Quản trị khách sạn (7810201): B03, C03, C04, C14, D01
+   * Ngôn ngữ Anh (7220201): D01, D11 (Anh, Văn, Vật lý), D14, D15 (Anh, Văn, Địa), D66 (Anh, Văn, GDCD)
+   * Huấn luyện thể thao (7810201): T01, T02, T05, T07
+   * Tâm lý học (7310401): B03, C03, C04, C14, D01
+   * Khoa học vật liệu (7440122, dự kiến): B03, C01, C02, C04, D01
+* Ghi chú (Trang 9):
+   * Năng khiếu:
+      * Giáo dục Mầm non, Tiểu học (M00): Đọc diễn cảm, Hát
+      * Giáo dục Thể chất, Huấn luyện thể thao: Bật xa tại chỗ, Chạy 100m (điểm ≥ 5.0/10; nam ≥ 1,65m, nữ ≥ 1,55m)
+   * Chứng chỉ tiếng Anh (IELTS ≥ 5.0 hoặc TOEFL iBT ≥ 60, trong 24 tháng đến 8/2025) thay thế môn Tiếng Anh:
+* Bảng 7: Quy đổi điểm chứng chỉ tiếng Anh (Trang 9)
+   * IELTS 7.0+ / TOEFL iBT 86+: 10 điểm
+   * IELTS 6.5 / TOEFL iBT 79-85: 9.5 điểm
+   * IELTS 6.0 / TOEFL iBT 70-78: 9.0 điểm
+   * IELTS 5.5 / TOEFL iBT 65-69: 8.5 điểm
+   * IELTS 5.0 / TOEFL iBT 60-64: 8.0 điểm
+6. Ngưỡng đảm bảo chất lượng đầu vào (Trang 10):
+   * PT1:
+      * Ngành sư phạm: Dựa trên ngưỡng Bộ GDĐT, Hội đồng tuyển sinh xác định
+      * Ngành ngoài sư phạm: Hội đồng tuyển sinh công bố công khai
+   * PT2: Tổng điểm trung bình 3 môn ≥ 18.0 (ngành ngoài sư phạm); ≥ 20.0 cho Kế toán, Quản trị kinh doanh, Logistics, Ngôn ngữ Anh, Công nghệ thông tin, Luật, Luật kinh tế (không tính ưu tiên)
+   * PT3:
+      * Đạt giải Nhất, Nhì, Ba kỳ thi học sinh giỏi quốc gia/quốc tế, khoa học kỹ thuật
+      * Giáo dục Thể chất, Huấn luyện thể thao: Huy chương vàng giải vô địch thể thao, VĐV kiện tướng, thành viên đội dự tuyển quốc gia
+   * PT4: Đạt giải Nhất, Nhì, Ba kỳ thi học sinh giỏi cấp tỉnh (trong 3 năm)
+7. Thông tin khác (Trang 10-11):
+   * Điểm ưu tiên: Theo quy định Bộ GDĐT
+   * Quy đổi điểm xét tuyển:
+      * PT2: Điểm XT = (Điểm đạt được x 0,8 + 2,5) + điểm ưu tiên (nếu có)
+      * PT5: Điểm XT = [(Điểm đạt được x 30/thang điểm)] x K + điểm ưu tiên (nếu có); K công bố sau phổ điểm THPT và đánh giá năng lực/tư duy; tối đa 30 điểm
+      * Ví dụ (Đánh giá tư duy ĐH Bách khoa Hà Nội, thang 100): Điểm XT = (Điểm ĐGTD x 30/100) x K + điểm ưu tiên
+8. Tổ chức tuyển sinh (Trang 11-12):
+   * Lịch trình tuyển sinh:
+      * Tháng 3/2025: Công bố đề án tuyển sinh
+      * Tháng 4-6/2025: Nhận hồ sơ xét tuyển PT2, PT3, PT4; tổ chức thi năng khiếu (dự kiến 3 đợt: tháng 4, 5, 6/2025)
+      * Tháng 7/2025:
+         * Nhận hồ sơ xét tuyển PT1, PT5
+         * Công bố kết quả xét tuyển PT2, PT3, PT4
+         * Xác nhận nhập học PT2, PT3, PT4
+      * Tháng 8/2025: Công bố kết quả trúng tuyển PT1, PT5; xác nhận nhập học
+      * Tháng 9/2025: Nhập học
+   * Hình thức nhận hồ sơ:
+      * Trực tuyến: Qua hệ thống Bộ GDĐT hoặc https://dxxt.hdu.edu.vn
+      * Trực tiếp: Tại cơ sở 565 Quang Trung, Đông Vệ, Thanh Hóa
+      * Chuyển phát nhanh: Qua bưu điện đến địa chỉ trên
+   * Lệ phí xét tuyển:
+      * PT1, PT2, PT5: Theo quy định Bộ GDĐT
+      * PT3, PT4: Miễn phí
+      * Thi năng khiếu: Theo quy định HDU, công bố tại https://tuyensinh.hdu.edu.vn
+   * Thông tin công khai:
+      * Kết quả xét tuyển, danh sách trúng tuyển: https://tuyensinh.hdu.edu.vn
+      * Quy chế thi năng khiếu: https://tuyensinh.hdu.edu.vn/danh-muc-quy-che-tuyensinh-hong-duc.html
+   * Học phí:
+      * Dự kiến theo Nghị định 81/2021/NĐ-CP
+      * Công bố chính thức tại https://hdu.edu.vn trước tháng 6/2025
+   * Chính sách ưu tiên: Theo Quy chế Bộ GDĐT và quy định HDU
+________________
+
+
+Phụ lục
+Phụ lục 1: Chỉ tiêu tuyển sinh dự kiến năm 2025 (Trang 13-14)
+* Bảng PL1: Chỉ tiêu tuyển sinh dự kiến (Phụ lục 1)
+   * Sư phạm Toán học (7140209): 70
+   * Sư phạm Vật lý (7140211): 50
+   * Sư phạm Hóa học (7140212): 50
+   * Sư phạm Sinh học (7140213): 50
+   * Sư phạm Khoa học Tự nhiên (7140247): 50
+   * Sư phạm Tin học (7140210): 50
+   * Sư phạm Ngữ văn (7140217): 60
+   * Sư phạm Lịch sử (7140218): 50
+   * Sư phạm Địa lý (7140219): 50
+   * Sư phạm Lịch sử - Địa lý (7140249): 50
+   * Sư phạm Tiếng Anh (7140231): 60
+   * Giáo dục Thể chất (7140206): 60
+   * Giáo dục Tiểu học (7140202): 200
+   * Giáo dục Mầm non (7140201): 200
+   * Toán học (7460101): 50
+   * Công nghệ thông tin (7480201): 100
+   * Truyền thông đa phương tiện (7320104): 50
+   * Kỹ thuật điện (7520201): 50
+   * Kỹ thuật xây dựng (7580201): 50
+   * Chăn nuôi-Thú y (7620106): 50
+   * Khoa học cây trồng (7620110): 50
+   * Quản lý đất đai (7850103): 50
+   * Kinh tế nông nghiệp (7620115): 50
+   * Quản trị kinh doanh (7340101): 100
+   * Tài chính - Ngân hàng (7340201): 60
+   * Kế toán (7340301): 100
+   * Kiểm toán (7340302): 50
+   * Kinh tế (7310101): 50
+   * Logistics và quản lý chuỗi cung ứng (7510605): 60
+   * Luật (7380101): 100
+   * Luật kinh tế (7380107): 60
+   * Chính trị học (7310201): 50
+   * Văn học (7229030): 50
+   * Công tác xã hội (7760101): 50
+   * Du lịch (7810101): 60
+   * Quản trị khách sạn (7810201): 50
+   * Ngôn ngữ Anh (7220201): 100
+   * Huấn luyện thể thao (7810201): 50
+   * Tâm lý học (7310401): 50
+   * Khoa học vật liệu (7440122, dự kiến): 50
+   * Tổng chỉ tiêu: 2.690
+Phụ lục 2: Tổ hợp môn xét tuyển (Trang 15-17)
+* Bảng PL2: Tổ hợp môn xét tuyển (Phụ lục 2)
+   * A00: Toán, Vật lý, Hóa học
+   * A01: Toán, Vật lý, Tiếng Anh
+   * A02: Toán, Vật lý, Sinh học
+   * A04: Toán, Vật lý, Địa lý
+   * B00: Toán, Hóa học, Sinh học
+   * B03: Toán, Ngữ văn, Sinh học
+   * B04: Toán, Sinh học, Giáo dục công dân
+   * B08: Toán, Sinh học, Tiếng Anh
+   * C00: Ngữ văn, Lịch sử, Địa lý
+   * C01: Toán, Ngữ văn, Vật lý
+   * C02: Toán, Ngữ văn, Hóa học
+   * C03: Ngữ văn, Lịch sử, Toán
+   * C04: Toán, Ngữ văn, Địa lý
+   * C12: Ngữ văn, Lịch sử, Tiếng Anh
+   * C13: Ngữ văn, Lịch sử, Sinh học
+   * C14: Toán, Ngữ văn, Giáo dục công dân
+   * C19: Ngữ văn, Lịch sử, Giáo dục công dân
+   * C20: Ngữ văn, Địa lý, Giáo dục công dân
+   * D01: Toán, Ngữ văn, Tiếng Anh
+   * D07: Toán, Hóa học, Tiếng Anh
+   * D09: Toán, Lịch sử, Tiếng Anh
+   * D10: Toán, Địa lý, Tiếng Anh
+   * D11: Ngữ văn, Vật lý, Tiếng Anh
+   * D14: Ngữ văn, Lịch sử, Tiếng Anh
+   * D15: Ngữ văn, Địa lý, Tiếng Anh
+   * D66: Ngữ văn, Giáo dục công dân, Tiếng Anh
+   * D84: Toán, Giáo dục công dân, Tiếng Anh
+   * M00: Ngữ văn, Toán, Năng khiếu (Đọc diễn cảm, Hát)
+   * M05: Ngữ văn, Lịch sử, Năng khiếu (Đọc diễn cảm, Hát)
+   * M07: Ngữ văn, Địa lý, Năng khiếu (Đọc diễn cảm, Hát)
+   * M11: Ngữ văn, Tiếng Anh, Năng khiếu (Đọc diễn cảm, Hát)
+   * T01: Ngữ văn, Toán, Năng khiếu (Bật xa, Chạy 100m)
+   * T02: Ngữ văn, Sinh học, Năng khiếu (Bật xa, Chạy 100m)
+   * T05: Ngữ văn, Giáo dục công dân, Năng khiếu (Bật xa, Chạy 100m)
+   * T07: Ngữ văn, Địa lý, Năng khiếu (Bật xa, Chạy 100m)
+Phụ lục 17: Quy định thi năng khiếu (Trang 18-20)
+* Mục đích: Đánh giá năng khiếu thí sinh đăng ký ngành Giáo dục Mầm non, Giáo dục Tiểu học, Giáo dục Thể chất, Huấn luyện thể thao
+* Hình thức thi:
+   * Giáo dục Mầm non, Tiểu học: Thi 2 nội dung (Đọc diễn cảm, Hát)
+   * Giáo dục Thể chất, Huấn luyện thể thao: Thi 2 nội dung (Bật xa tại chỗ, Chạy 100m)
+* Thời gian thi: Dự kiến tháng 4, 5, 6/2025 (3 đợt)
+* Địa điểm: Cơ sở 565 Quang Trung, Đông Vệ, Thanh Hóa
+* Điều kiện dự thi:
+   * Giáo dục Thể chất, Huấn luyện thể thao: Nam cao ≥ 1,65m, nữ ≥ 1,55m
+   * Điểm năng khiếu ≥ 5.0/10
+* Cách tính điểm:
+   * Điểm năng khiếu = (Điểm nội dung 1 + Điểm nội dung 2) / 2
+   * Thang điểm: 10
+* Công khai quy chế: https://tuyensinh.hdu.edu.vn/danh-muc-quy-che-tuyensinh-hong-duc.html
+* Bảng PL17: Nội dung thi năng khiếu (Phụ lục 17)
+   * Giáo dục Mầm non, Tiểu học:
+      * Đọc diễn cảm: Đọc 1 đoạn văn hoặc thơ (3 phút), chuẩn bị 5 phút
+      * Hát: Hát 1 bài dân ca hoặc thiếu nhi (3 phút), chuẩn bị 5 phút
+   * Giáo dục Thể chất, Huấn luyện thể thao:
+      * Bật xa tại chỗ: Thực hiện 3 lần, lấy kết quả tốt nhất
+      * Chạy 100m: Chạy 1 lần, tính thời gian bằng đồng hồ bấm giờ

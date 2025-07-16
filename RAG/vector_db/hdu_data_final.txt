@@ -1,0 +1,418 @@
+TT Họ và tên Chức danh khoa học Trình độ Chuyên môn đào tạo Mã ngành Tên ngành đào tạo
+1. Doãn Đăng Cảnh Thạc sĩ Hệ thống điện 7480201 Công nghệ thông tin
+2. Hoàng Sỹ Trung Thac sĩ Giáo dục thể chất 7480201 Công nghệ thông tin
+3. Hoàng Văn Hùng Thạc sĩ Công nghệ thông tin 7480201 Công nghệ thông tin
+4. Hoàng Hải Nhi Đại học CN đa phương tiện 7480201 Công nghệ thông tin
+5. Lê Đức Thọ Thạc sĩ Công nghệ thông tin 7480201 Công nghệ thông tin
+6. Lê Thị Hồng Thạc sĩ Công nghệ thông tin 7480201 Công nghệ thông tin
+7. Lê Thị Hồng Hà Thạc sĩ Công nghệ thông tin 7480201 Công nghệ thông tin
+8 Lê Văn Hào Tiến sĩ Khoa học máy tính 7480201 Công nghệ thông tin
+9. Lê Thanh Dương Đại học Truyền thông 7480201 Công nghệ thông tin
+10. Lê Việt Anh Thạc sĩ Hệ thống điện 7480201 Công nghệ thông tin
+11. Lê Việt Nam Thạc sĩ Công nghệ thông tin 7480201 Công nghệ thông tin
+12. Lưu Đình Thi Thac sĩ Cơ khí nông nghiệp 7480201 Công nghệ thông tin
+13. Nguyễn Đình Công Tiến sĩ Khoa học máy tính 7480201 Công nghệ thông tin
+14. Nguyễn Đình Định Thạc sĩ Công nghệ thông tin 7480201 Công nghệ thông tin
+15. Nguyễn Thị Bích Nhật Thạc sĩ Công nghệ thông tin 7480201 Công nghệ thông tin
+16. Nguyễn Thị Kim Liên Thạc sĩ Hình học và Topo 7480201 Công nghệ thông tin
+17. Nguyễn Thị Thắm Thạc sĩ Hệ thống điện 7480201 Công nghệ thông tin
+18. Nguyễn Văn Lương Phó giáo su Tiến sĩ Khoa học Toán học 7480201 Công nghệ thông tin
+19. Phạm Thế Anh Phó giáo sư Tiến sĩ Khoa học máy tính 7480201 Công nghệ thông tin
+20. Phạm Thị Hà Thạc sĩ Điện tử viễn thông 7480201 Công nghệ thông tin
+21. Tống Minh Phương Thạc sĩ Hệ thống Nông nghiệp 7480201 Công nghệ thông tin
+22. Trịnh Thị Anh Loan Thạc sĩ Công nghệ thông tin 7480201 Công nghệ thông tin
+23. Ngô Sỹ Tùng Phó giáo sư Tiến sĩ Đại số và lý thuyệt số 7480201 Công nghệ thông tin 
+24. Lê Văn Tôn Tiến sĩ Công đồng Asean 7760101 Công tác xã hội
+25. Nguyễn Thị Duyên Tiến sĩ Xã hội học 7760101 Công tác xã hội
+26. Nguyễn Thị Lý Tiến sĩ Xã hội học 7760101 Công tác xã hội
+27. Phạm Thị Anh Tiến sĩ LL&PPDH Văn-T. Việt 7760101 Công tác xã hội
+28. Vũ Thị Thắng Tiến sĩ Ngôn ngữ học 7760101 Công tác xã hội
+29. Lê Hồng Sinh Tiến sĩ Lâm nghiệp 7620106 Chăn nuôi - Thú y
+30. Phạm Hữu Hùng Tiến sĩ Lâm sinh 7620106 Chăn nuô i- Thú y
+31. Phùng Thị Tuyết Mai Thạc sĩ Công nghệ thực phẩm 7620106 Chăn nuôi - Thú y
+32. Trịnh Lan Hồng Thạc sĩ Chế biến thực phẩm 7620106 Chăn nuôi - Thú y
+33. Hoàng Văn Sơn Tiến sĩ Bệnh lý học và Chữa bệnh vật nuôi 7620106 Chăn nuôi-Thú y
+34. Lê Văn Ninh Tiến sĩ Bảo vệ thực vật 7620106 Chăn nuôi -Thú y
+35. Nguyễn Thị Minh Hồng Tiến sĩ Sinh học (Công nghệ sinh học) 7620106 Chăn nuôi-Thú y
+36. Mai Thị Quý Tiến sĩ Triết học 7310201 Chính trị học
+37. Nguyễn Thị Tâm Tiến sĩ Hồ Chí Minh học 7310201 Chính trị học
+38. Nguyễn Văn Đông Tiến sĩ Ngữ văn (Văn học Việt Nam) 7310201 Chính trị học
+39. Phạm Văn Hùng Tiến sĩ Chính trị học 7310201 Chính trị học
+40. Vũ Thị Lan Tiến sĩ Chính trị học 7310201 Chính trị hoc
+41. Dương Thị Hiền Tiến sĩ Du lịch 7810101 Du lịch
+42. Hoàng Hồng Anh Tiến sĩ Việt Nam học- Du lịch 7810101 Du lịch
+43. Lê Thị Bình Tiến sĩ Ngôn ngữ học 7810101 Du lich
+44. Nguyễn Thị Định Tiến sĩ Lịch sử (Lịch sử Việt Nam) 7810101 Du lịch
+45. Nguyễn Thị Thu Hà Tiến sĩ Lịch sử (Lịch sử Việt Nam) 7810101 Du lịch
+46. Lê Thị Bích Ngọc Thạc sĩ Chính trị học 7810101 Du lịch
+47. Bùi Thị Hằng Thạc sĩ Triết học 7140201 Giáo dục Mầm non
+48. Đỗ Như Hùng Thac sĩ Quản lý giáo dục 7140201 Giáo dục Mầm non
+49. Doãn Thị Hạnh Thac sĩ Sư phạm Âm nhạc 7140201 Giáo dục Mầm nom 
+50. Dương Thái Bình Thạc sĩ Giáo dục thể chất 7140201 Giáo dục Mầm non
+51. Hồ Sỹ Hùng Tiến sĩ Khoa học Giáo dục 7140201 Giáo dục Mầm non
+52. Hồ Thị Dung Tiến sĩ Lý luận và lịch sử giáo dục 7140201 Giáo dục Mầm non
+53. Hoàng Hải Hòa Thạc sĩ PPGD Mỹ thuật 7140201 Giáo dục Mầm non
+54. Hoàng Thị Mai Phó giáo su Tiến sĩ Giáo dục học 7140201 Giáo dục Mầm non
+55. Lê Thị Anh Thạc sĩ Xây dựng Đảng 7140201 Giáo dục Mầm non
+56. Lê Thị Huyên Tiến sĩ Khoa học giáo dục 7140201 Giáo dục Mầm non
+57. Lê Thị Kim Tuyên Thạc sĩ LL&PPDH Mỹ thuật 7140201 Giáo dục Mầm non
+58. Lê Thị Thanh Xuân Thạc sĩ Văn hóa hoc 7140201 Giáo dục Mầm non
+59.Lê Thiện Lâm Thạc sĩ Mỹ thuật tạo hình- Hội họa 7140201 Giáo dục Mầm non
+60. Nguyên T Hoàng Hương Tiến sĩ Văn học Việt Nam 7140201 Giáo dục Mầm non
+61. Nguyễn Thị Hoa Thạc sĩ LL&PPDH Văn-T. Việt 7140201 Giáo dục Mầm non
+62. Nguyễn Thị Lan Thạc sĩ Giáo dục Mầm non 7140201 Giáo dục Mầm non
+63. Nguyễn Thị Quế Thạc sĩ Văn học dân gian 7140201 Giáo dục Mầm non
+64. Phạm Thị Thanh Bình Thac sĩ Môi trường 7140201 Giáo dục Mầm non
+65. Trần Thị Thanh Thạc sĩ Giáo dục Mầm non 7140201 Giáo dục Mầm non
+66. Trịnh Thị Lan Thạc sĩ Sư phạm Mỹ thuật 7140201 Giáo duc Mầm non
+67. Trịnh Thị Quyên Thạc sĩ Giáo dục mầm non 7140201 Giáo dục Mầm non
+68. Vũ Ngọc Tuấn Thạc sĩ LL&PPDH Âm nhạc 7140201 Giáo dục Mầm non
+69. Lê Quang Tiến Đại học Giáo dục quốc phòng - An ninh 7140201 Giáo dục Mầm non
+70. Nguyễn Thị Hằng Thạc sĩ Giáo dục Mầm non 7140201 Giáo dục Mầm non
+71. Trịnh Thị Thu Tiến sĩ Động Vật học 7140201 Giáo duc Mầm non
+72. Hỏa Diệu Thúy Phó Giáo sư Tiến sĩ Văn học Việt Nam 7140202 Giáo dục Tiểu học
+73.Lê Viết Báu Phó giáo sư Tiến sĩ Khoa học vật liệu 7140202 Giáo dục Tiểu học
+74. Đỗ T Thu Phương Thạc sĩ LL&PPDH Âm nhạc 7140202 Giáo dục Tiểu học
+75. Đỗ Thị Hồng Hạnh Thac sĩ Giáo dục hoc 7140202 Giáo dục Tiểu học
+6. Hà Thị Phương Thạc sĩ Vi sinh vật học 7140202 Giáo dục Tiểu học
+77. Hoàng Bùi Sơn Thạc sĩ Lý luận và PPDH Âm nhạc 7140202 Giáo dục Tiểu học
+78. Hoàng Diệu Hồng Thạc sĩ Xác suất-Thống kê 7140202 Giáo dục Tiểu học
+79. Hoàng Thị Thu An Thac sĩ Văn học Việt Nam 7140202 Giáo dục Tiểu học
+80. Lê Anh Vinh Thạc sĩ Giáo dục thể chất 7140202 Giáo dục Tiểu học
+81. Lê Thi Hòa Thạc sĩ Chính trị học 7140202 Giáo dục Tiểu học
+82. Lê Thị Hoài Thạc sĩ Triết học 7140202 Giáo dục Tiểu học
+83. Lê Thị Lan Thạc sĩ Tâm lý học 7140202 Giáo dục Tiểu học
+84. Lê Thị Thu Bình Tiến sĩ Ngữ văn (Ngôn ngữ học) 7140202 Giáo dục Tiểu học
+85. Lê Thị Thương Thạc sĩ KH môi trưởng 7140202 Giáo dục Tiều học
+86. Lê Thi Thuý Hiên Thạc sĩ Địa lý học 7140202 Giáo dục Tiều học
+87. Lê Văn Hà Thạc sĩ Tâm lý họс 7140202 Giáo dục Tiều học
+88. Nguyễn Bá Châu Thạc sĩ Tâm lý học 7140202 Giáo dục Tiểu học
+89. Nguyễn Duy Hùng Thạc sĩ Giáo dục thể chất 7140202 Giáo dục Tiểu học
+90. Nguyễn Hữu Đông Thạc sĩ Quản lý giáo dục 7140202 Giáo dục Tiểu học
+91. Nguyễn Hữu Hậu Phó giáo sư Tiến sĩ Khoa học giáo dục (LL&PPDHBM Toán) 7140202 Giáo dục Tiểu học
+92. Nguyễn Hữu Thắng Thạc sĩ Giáo dục học 7140202 Giáo dục Tiểu học
+93. Nguyễn T Minh Hiền Thac sĩ Giáo dục học 7140202 Giáo dục Tiểu học
+94. Nguyễn Thị Diệp Ly Thạc sĩ Giáo dục thể chất 7140202 Giáo dục Tiểu học
+95. Nguyễn Thị Giang Thạc sĩ Lich sử Thế giới 7140202 Giáo dục Tiểu học
+96. Nguyễn Thị Hồng Thạc sĩ Tôn giáo học 7140202 Giáo dục Tiều học
+97. Nguyễn Thị Hương Thạc sĩ Tâm lý họс 7140202 Giáo duc Tiểu học
+98. Nguyễn Thị Liên Thac sĩ Việt Nam học 7140202 Giáo dục Tiểu học
+99. Nguyễn Thị Ngọc Thạc sĩ Vật lý chất rắn 7140202 Giáo dục Tiểu học
+100. Nguyễn Thị Dịu Tiến sĩ Văn học Việt Nam 7140202 Giáo dục Tiểu học
+101. Nguyễn Phương Lan Thạc sĩ Giáo dục học 7140202 Giáo dục Tiểu học
+102. Nguyễn Thị Quyên Thac sĩ Đại số 7140202 Giáo dục Tiểu học
+103. Nguyễn Thị Thanh Hằng Thạc sĩ Khoa học môi trường 7140202 Giáo dục Tiểu học
+104. Nguyễn Ngọc Tuấn Thạc sĩ Giáo dục thể chất 7140202 Giáo dục Tiểu học
+105. Nguyễn Xuân Trọng Thạc sĩ Giáo dục thể chất 7140202 Giáo dục Tiểu học
+106. Phạm Anh Tuấn Thạc sĩ Lý luận và PPDH Âm nhạc 7140202 Giáo dục Tiểu học
+107. Phạm Thị Thu Hoà Thạc sĩ Tâm lý học 7140202 Giáo dục Tiểu học
+108. Phạm Thị Thúy Vân Tiến sĩ Khoa học giáo dục (Tiều học) 7140202 Giáo dục Tiểu học
+109. Thiều Thi Thùy Thạc sĩ QL tài nguyên môi trường 7140202 Giáo dục Tiểu học
+110. Trịnh Thị Hồng Tiến sĩ Động vật học 7140202 Giáo dục Tiểu học
+111. Trịnh Thị Huyền Thạc sĩ Vật lý chất rắn 7140202 Giáo dục Tiểu học
+112. Trịnh Thị Thuỷ Thạc sĩ Lý luận Văn học 7140202 Giáo dục Tiểu học
+113. Trịnh Tố Anh Thạc sĩ Tư tưởng Hồ Chí Minh 7140202 Giáo dục Tiểu học
+114. Trịnh Viết Thuân Thạc sĩ Quản lý giáo dục 7140202 Giáo dục Tiểu học
+115. Trương Thị Thảo Thạc sĩ Tâm lý học 7140202 Giáo dục Tiểu học
+116. Vũ Hồng Nam Thạc sĩ Hóa vô cơ 7140202 Giáo dục Tiểu học
+117. Vũ Thị Phương Thạc sĩ QL tài nguyên môi trường 7140202 Giáo dục Tiểu học
+118. Vũ Thị Hà Mai Thạc sĩ Hóa môi trường 7140202 Giáo dục Tiểu học
+119. Cao Minh Công Đại học Giáo dục quốc phòng - An ninh 7140202 Giáo dục Tiểu học
+120. Trịnh Ngọc Anh Đại học Giáo dục quốc phòng - An ninh 7140202 Giáo dục Tiểu học
+121. Lục Vĩnh Hưng Thạc sĩ LL&PPDHÂm nhac 7140202 Giáo dục Tiểu học
+122. Lê Duy Toán Thạc sĩ Giáo dục học 7140202 Giáo dục Tiểu học
+123. Bùi Công Nhưỡng Thạc sĩ Quản lý giáo dục 7140202 Giáo dục Tiểu học
+124. Cao Ngọc Thành Thạc sĩ Giáo dục thể chất 7140206 Giáo dục Thể chất
+125. Đậu Quang Vinh Tiến sĩ Sinh học (Động vật học) 7140206 Giáo dục Thể chất
+126. Đỗ Thị Dung Tiến sĩ Giáo dục học (LL&lịch sử giáo dục) 7140206 Giáo dục Thể chất
+127. Đỗ Thị Hải Tiến sĩ Khoa học tự nhiên (Sinh học) 7140206 Giáo dục Thể chất
+128. Nguyễn Thị Quyên Tiến sĩ Khoa học giáo dục 7140206 Giáo dục Thể chất
+129. Nguyễn Văn Toàn Tiến sĩ Khoa học giáo dục 7140206 Giáo dục Thế chất
+130. Hoàng Ngọc Hùng Tiến sĩ Sinh hoc 7810302 Huấn luyện thể thao
+131. Lê Trọng Đồng Tiến sĩ Huấn luyện thể thao 7810302 Huấn luyện thể thao
+132. Lê Văn Trọng Phó giáo sư Tiến sĩ Sinh hoc 7810302 Huấn luyện thể thao
+133. Phạm Văn Đàn Tiến sĩ Huấn luyện thể chất 7810302 Huấn luyên thể thao
+134. Trịnh Văn Bắc Tiến sĩ Huấn luyện thể thao 7810302 Huấn luyện thể thao
+135. Đàm Hương Giang Thac sĩ Kỹ nghệ hoa viên 7340301 Kế toán
+136. Đặng Thùy Vân Thạc sĩ Chính trị học 7340301 Kế toán
+137. Đinh Thị Thu Thuỷ Thạc sĩ Kinh tế 7340301 Kế toán
+138. Đinh Thị Thuỳ Dung Thạc sĩ Lâm học 7340301 Kế toán
+139. Doãn Đăng Thanh Thạc sĩ Xác suất- Thống kê 7340301 Kế toán
+140. Đoàn Thị Như Quỳnh Thạc sĩ Xã hội học 7340301 Kế toán
+141. Hoàng T Lan Thương Thac sĩ Bảo vệ thực vật 7340301 Kế toán
+142. Hoàng Thị Bích Thạc sĩ Thú y 7340301 Kế toán
+143. Khương Văn Nam Thạc sĩ Thú y 7340301 Kế toán
+144. Lã Thi Thu Tiến sĩ Kế toán 7340301 Kế toán
+145. Lê Thanh Tùng Thạc sĩ Quản lý kinh tế 7340301 Kế toán
+146. Lê Thị Diệp Thạc sĩ Kế toán 7340301 Kế toán
+147. Lê Thị Hạnh Thac sĩ Tài chính 7340301 Kế toán
+148. Lê Thị Lâm Thạc sĩ Công nghệ sau thu hoạch 7340301 Kế toán
+149. Lê Thị Loan Tiến sĩ Kế toán 7340301 Kế toán
+150. Lê Thị Minh Trí Tiến sĩ Kế toán 7340301 Kế toán
+151. Lê Thị Mỹ Dung Tiến sĩ Kế toán 7340301 Kế toán
+152. Lê Thị Thu Hà Thạc sĩ Kinh tế 7340301 Kế toán
+153. Mai Thị Hồng Thạc sĩ Thống kê Kinh tế- Xã hội 7340301 Kế toán
+154. Nghiêm Thị Hương Thạc sĩ Công nghệ sinh học 7340301 Kế toán
+155. Nguyễn Cẩm Nhung Thạc sĩ Kinh tế đầu tư 7340301 Kế toán
+156. Nguyễn Hữu Học Thac sĩ Toán giải tích 7340301 Kế toán
+157. Nguyễn Ngân Hà Thạc sĩ Tài chính- ngân hàng quốc tế 7340301 Kế toán
+158. Nguyễn Thanh Bình Thạc sĩ Công nghệ sinh học 7340301 Kế toán
+159. Nguyễn Thị Bình Tiến sĩ Kinh tế 7340301 Kế toán
+160. Nguyễn Thị Hải Thạc sĩ Thú y 7340301 Kế toán
+161. Nguyễn Thị Hồng Điệp Thạc sĩ Kinh tế các ngành 7340301 Kế toán
+162. Nguyễn Thị Huyền Thạc sĩ Thống kê Kinh tế- Xã hội 7340301 Kế toán
+163. Nguyễn Thị Nga Thạc sĩ Tài chính- Ngân hàng 7340301 Kế toán
+164. Nguyễn Thị Nhung Thac sĩ Kế toán- Kiểm toán 7340301 Kế toán
+165. Nguyễn Thị Thanh Thạc sĩ KT hạ tầng và PT nông thôn 7340301 Kế toán
+166. Nguyễn Thuỳ Linh Thạc sĩ Kế toán 7340301 Kế toán
+167. Ng Thúy Thúy Phượng Thạc sĩ Tài chính- Ngân hàng 7340301 Kế toán
+168. Thiều Việt Hà Thạc sĩ Tài chính- Ngân hàng 7340301 Kế toán
+169. Trần Xuân Cương Thạc sĩ Bảo vệ thực vật 7340301 Kế toán
+170. Trịnh Thị Hà Phương Thạc sĩ Cấp thoát nước 7340301 Kế toán
+171. Trịnh Thị Phú Thạc sĩ Công nghệ thông tin 7340301 Kế toán
+172. Trịnh Thị Liên Thạc sĩ Tài chính - Ngân hàng 7340301 Kế toán
+173. Uông Thị Nga Thạc sĩ Thống kê kinh tế 7340301 Kế toán
+174. Trịnh Thị Hợp Thạc sĩ Khoa học máy tính 7340301 Kế toán
+175. Lê Diêu Linh Thạc sĩ Khoa học máy tính 7340301 Kế toán
+176. Đặng Lan Anh Tiến sĩ Kế toán 7340302 Kiểm toán
+177. Lê Thi Hồng Tiến sĩ Kinh tế 7340302 Kiểm toán
+178. Nguyễn Thị Thu Phương Tiến sĩ Kế toán 7340302 Kiểm toán
+179. Phạm Thị Bích Thu Phó giáo su Tiến sĩ Kế toán 7340302 Kiểm toán
+180. Trần Thị Thu Hường Tiến sĩ Kinh tế 7340302 Kiểm toán
+181. Hoàng Thị Hà Tiến sĩ Phát triển DL bền vững 7310101 Kinh tế
+182.Lê Huy Chính Tiến sĩ Kinh tế họс 7310101 Kinh tế
+183. Lê Thị Bình Tiến sĩ Kinh tế 7310101 Kinh tế
+184. Nguyễn Thị Thanh Tiến sĩ Kế toán 7310101 Kinh tế
+185. Trần Thị Lan Hương Tiến sĩ Kế toán 7310101 Kinh tế
+186. Bùi Thị Huyền Tiến sĩ Lâm nghiệp (sinh) 7620115 Kinh tế nông nghiệp
+187. Lê Thị Phượng Tiến sĩ Khoa học môi trường và sự sống 7620115 Kinh tế nông nghiệp
+188. Lê Văn Cường Tiến sĩ Kinh tế bền vững 7620115 Kinh tế nông nghiệp
+189. Ngô Chí Thành Phó giáo sư Tiến sĩ Kinh tế 7620115 Kinh tế nông nghiệp
+190. Phạm Thị Ngọc Tiến sĩ Kinh tế Nông nghiệp 7620115 Kinh tế nông nghiệp
+191. Hà Xuân Giáp Tiến sĩ Kỹ thuật và công nghệ 7520201 Kỹ thuật điện
+192. Lê Phương Hảo Thạc sĩ Hệ thống điện 7520201 Kỹ thuật điện
+193. Lê Thị Giang Phó giáo sư Tiến sĩ KH học vật liệu, vật lý, hoá học và khoa học nano 7520201 Kỹ thuật điện
+194. Lê Văn Khỏe Tiến sĩ Hóa lý thuyết & Hóa lý 7520201 Kỹ thuật điện
+195. |Nguyễn Lê Thi Tiến sĩ Vật lý 7520201 Kỹ thuật điện
+196. Phạm Thị Cúc Tiến sĩ Đại số và lý thuyêt số 7520201 Kỹ thuật điện
+197. Trịnh Việt Dũng Thạc sĩ Giáo dục thể chất 7520201 Kỹ thuật điện
+198. Lương Thị Kim Phượng Phó giáo su Tiến sĩ Vật lý và Khoa học vật liệu 7580201 Kỹ thuật xây dựng
+199. Mai Thị Hồng Tiến sĩ Xây dựng Công trình thủy 7580201 Kỹ thuật xây dựng
+200. Ngô Sĩ Huy Phó giáo su Tiến sĩ Kỹ thuật xây dựng 7580201 Kỹ thuật xây dựng
+201. Nguyễn Thị Mùi Tiến sĩ Mồi trường đất và nước 7580201 Kỹ thuật xây dựng
+202. Nguyễn Văn Dũng Tiến sĩ Xây dựng Công trình thủy 7580201 Kỹ thuật xây dựng
+203. Trương Thị Hà Thạc sĩ Nuôi trồng thủy sản 7580201 Kỹ thuật xây dựng
+204. Lê Thị Thanh Huyền Tiến sĩ Khoa học Cây trồng 7620110 Khoa học cây trồng
+205. Nguyễn Thị Vân Tiến sĩ Khoa học cây trồng 7620110 Khoa học cây trồng
+206. Trần Thị Huyền Tiến sĩ Khoa học cây trồng 7620110 Khoa học cây trồng
+207. Phan Thị Tươi Tiến sĩ Chăn nuôi 7620110 Khoa học cây trồng
+208. Tống Văn Giang Tiến sĩ Khoa học cây trồng 7620110 Khoa học cây trồng
+209. Lê Hà Thanh Tiến sĩ Địa lý 7140249 Lịch sử - Đại lý
+210. Lê Kim Dung Tiến sĩ Địa lý 7140249 Lịch sử - Đại lý
+211. Lê Sỹ Hưng Tiến sĩ Lịch sử Thế giới 7140249 Lịch sử - Đại lý
+212. Nguyễn Thị Dung Tiến sĩ Địa lý 7140249 Lịch sử - Đại lý
+213. Nguyễn Thị Vân Tiến sĩ Khoa học giáo dục (Lịch sử) 7140249 Lịch sử - Đại lý
+214. Lê Sỹ Chính Tiến sĩ Khoa học môi trường 7510605 Logistics và QL CCU
+215. Lê Thị Minh Huệ Tiến sĩ Kinh tế (Kế toán) 7510605 Logistics và QL CCU
+216. Tôn Hoàng Thanh Huế Tiến sĩ Khoa học quản lý 7510605 Logistics và QL CCU
+217. Vũ Sỹ Kỷ Tiến sĩ Khoa học kỹ thuật 7510605 Logistics và QL CCU
+218. Nguyễn Hữu Quyết Tiến sĩ Quan hệ quốc tế 7510605 Logistics và QL CCU
+219. Bùi Văn Dũng Phó giáo su Tiến sĩ Triết học, Kinh tế 7380101 Luât
+220. Đặng Thanh Mai Thạc sĩ Luật học 7380101 Luât
+221. La Thị Quế Tiến sĩ Luật (Luật hiến pháp và Luật hành chính) 7380101 Luật
+222. Lê Minh Thúy Thạc sĩ Luật học 7380101 Luật
+223. Lê Thị Nương Tiến sĩ Quản lý quốc tế 7380101 Luật
+224. Lê Thị Thắm Tiến sĩ Triết học 7380101 Luật
+225. Mai Thị Lan Thac sĩ Triết học 7380101 Luật
+226. Nguyễn Duy Nam Thạc sĩ Luật học 7380101 Luật
+227. Nguyễn Thị Nguyệt Thạc sĩ Luật học 7380101 Luật
+228. Nguyễn Thị Thanh Hương Tiến sĩ Ngôn ngữ học 7380101 Luât
+229. Nguyễn Thùy Dung Thạc sĩ Luật học 7380101 Luật
+230. Nguyễn Thị Anh Ngọc Thac sĩ Luật hiến pháp và luật hành chính 7380101 Luât
+231. Phan Thị Thanh Huyền Thac sĩ Luật học 7380101 Luât
+232. Lê Hương Giang Đại học Luật 7380101 Luật
+233. Lê Nguyễn Thúy Mai Đại học Luật 7380101 Luật
+234. Phạm Thị Hoài Phương Thạc sĩ Luật kinh tế 7380101 Luật
+235. Đới Thị Thêu Tiến sĩ Triết học 7380107 Luật kinh tế
+236. Lê Văn Minh Tiến sĩ Luật (Luật hiến pháp và Luật hành chính) 7380107 Luật kinh tế
+237. Nguyễn Hữu Hảo Tiến sĩ Toán và Khoa học tự nhiên 7380107 Luật kinh tế
+238. Nguyễn Thị Huyền Tiến sĩ Luật học 7380107 Luật kinh tế
+239. Nguyễn Văn Thụ Tiến sĩ Mậu dịch (Thương mại) quốc tế 7380107 Luật kinh tế
+240. Hoàng Thị Phương Thạc sĩ Xã hội học 7220201 Ngôn ngữ Anh
+241. Hoàng Thị Thu Hà Thạc sĩ LL&PPDH Tiếng Anh 7220201 Ngôn ngữ Anh
+242. Lại Thị Thanh Thạc sĩ Lâm học 7220201 Ngôn ngữ Anh
+243. Lê Huy Tuấn Thạc sĩ Nuôi trồng thủy sản 7220201 Ngôn ngữ Anh
+244. Lê Thị Huệ Thạc sĩ Ngôn ngũ Việt Nam 7220201 Ngôn ngữ Anh
+245. Lê Thị Hương Tiến sĩ PP dạy học Tiếng Anh 7220201 Ngôn ngữ Anh
+246. Lê Thị Hường Thạc sĩ Cây trồng 7220201 Ngôn ngữ Anh
+247. Lê Thị Thanh Hương Thạc sĩ LL&PPDH Tiếng Anh 7220201 Ngôn ngữ Anh
+248. Lê Thị Thanh Huyền Thạc sĩ LL&PPDH Tiếng Anh 7220201 Ngôn ngữ Anh
+249. Lê Thị Thanh Tâm Thạc sĩ LL&PPDHTiếng Anh 7220201 Ngôn ngữ Anh
+250. Lê Thi Thanh Thuỷ Thạc sĩ Xã hội học 7220201 Ngôn ngữ Anh
+251. Lê Hồng Nhung Thạc sĩ Giảng dạy tiếng anh cho người nói ngôn ngữ khác 7220201 Ngôn ngữ Anh
+252. Mai Văn Tùng Phó giáo sư Tiến sĩ Lịch sử (Dân tộc học) 7220201 Ngôn ngữ Anh
+253. My Thị Quỳnh Lê Thạc sĩ Hán nôm 7220201 Ngôn ngữ Anh
+254. Nguyễn Thanh Minh Tiến sĩ Ngôn ngữ học so sánh, đối chiếu 7220201 Ngôn ngữ Anh
+255. Nguyễn Thị Dung Thạc sĩ Nuôi trồng thủy sản 7220201 Ngôn ngữ Anh
+256. Nguyễn Thị Mai Hương Thac sĩ Ngôn ngữ học 7220201 Ngôn ngữ Anh
+257. Nguyễn Thị Ngọc Thac sĩ LL&PPDH Tiếng Anh 7220201 Ngôn ngữ Anh
+258. Nguyễn Thị Thuý Ngân Thạc sĩ LL&PPDH Tiếng Anh 7220201 Ngôn ngữ Anh
+259. Nguyễn Văn Hoan Thạc sĩ Bảo vệ thực vật 7220201 Ngôn ngữ Anh
+260. Phạm Thị Thoa Thạc sĩ Tâm lý học 7220201 Ngôn ngữ Anh
+261. Pham Thu Trang Thạc sĩ Trồng trọt 7220201 Ngôn ngữ Anh
+262. Trần Mạnh Trung Thạc sĩ LL&PPDH Tiếng Anh 7220201 Ngôn ngữ Anh
+263. Trinh Cẩm Xuân Thạc sĩ LL&PPDH Tiếng Anh 7220201 Ngôn ngữ Anh
+264. Trịnh Diệp Ly Thac sĩ Luật học 7220201 Ngôn ngữ Anh
+265. Trịnh Thị Hằng Thạc sĩ Tiếng Anh 7220201 Ngôn ngữ Anh
+266. Trịnh Thị Thơm Tiến sĩ Ngôn ngữ học (Tiếng Anh) 7220201 Ngôn ngữ Anh
+267. Trịnh Thị Thu Hà Thạc sĩ LL&PPGD Tiếng Anh 7220201 Ngôn ngữ Anh
+268. Trình Xuân Thắng Thạc sĩ Quản lý giáo dục 7220201 Ngôn ngữ Anh
+269. Nguyễn Khánh Huyền Thạc sĩ Lý luận và lịch sử nhà nước và pháp luật 7220201 Ngôn ngữ Anh
+270. Vũ Thị Loan Tiến sĩ Giáo dục học 7220201 Ngôn ngữ Anh
+271. Đỗ Thị Loan Thạc sĩ Ngôn ngữ Anh 7220201 Ngôn ngữ Anh
+272. Thiều Hà Trang Đai học Sư phạm tiếng Anh 7220201 Ngôn ngữ Anh
+273. Trương Thị Minh Thạc sĩ Lí luận và PPDH môn tiếng Pháp 7220201 Ngôn ngữ Anh
+274. Hà Bình Minh Thạc sĩ Quản lý giáo dục 7220201 Ngôn ngữ Anh
+275. Lê Thị Minh Thạc sĩ LL&PPDH Tiếng Anh 7220201 Ngôn ngữ Anh
+276. Lưu Văn Hậu Thạc sĩ LL&PPDH Tiếng Anh 7220201 Ngôn ngữ Anh
+277. Lê Thị Lý Đại học GD Quốc phòng An - ninh 7220201 Ngôn ngữ Anh
+278. Trịnh Tứ Quang Anh Đại học GD Quốc phòng An - ninh 7220201 Ngôn ngữ Anh
+279. Nguyễn T Huyền Trang Thạc sĩ Ngôn ngữ học 7220201 Ngôn ngữ Anh
+280. Lê Thị Hoa Tiến sĩ Hoá học (Hóa môi trường) 7850103 Quản lý đất đai
+281. Lê Văn Thành Tiến sĩ Tài nguyên và KT môi trường 7850103 Quản lý đất đai
+282. Mai Thành Luân Tiến sĩ Khoa học môi trường và sự sống 7850103 Quản lý đất đai
+283. Nguyễn Phan Vũ Thạc sĩ Triết hoc 7850103 Quản lý đất đai
+284. Nguyễn Thị Chinh Thạc sĩ Triết học 7850103 Quản lý đất đai
+285. Nguyễn Thị Loan Tiến sĩ Quản lý đất đai 7850103 Quản lý đất đai
+286. Nguyễn Thị Thu Hường Tiến sĩ Công nghệ sinh học 7850103 Quản lý đất đai
+287. Đào Thu Trà Tiến sĩ Quản trị kinh doanh 7340101 Quản trị kinh doanh
+288. Lê Quang Hiếu Phó giáo sư Tiến sĩ Kinh tế 7340101 Quân tri kinh doanh
+289. Lê Thanh Tùng Thac sĩ Quản trị kinh doanh 7340101 Quản trị kinh doanh
+290. Lê Thị Thanh Thủy Tiến sĩ Quản trị kinh doanh 7340101 Quản trị kinh doanh
+291. Lê Thị Ngọc Anh Thạc sĩ Quản trị linh doanh (ĐH SP Tiếng Pháp) 7340101 Quản trị kinh doanh
+292. Lê Thị Thuỳ Linh Thạc sĩ Quản trị kinh doanh 7340101 Quản trị kinh doanh
+293. Lường Đức Danh Tiến sĩ Tài chính- ngân hàng 7340101 Quản tri kinh doanh
+294. Nguyễn Mạnh Hùng Thạc s  Xác suất-Thống kê 7340101 Quản trị kinh doanh
+295. Nguyễn Minh Ngọc Thạc sĩ Kinh doanh và Kế toán TC 7340101 Quản trị kinh doanh
+296. Nguyễn Thị Huyền Thac sĩ Quản trị kinh doanh 7340101 Quản trị kinh doanh
+297. Nguyễn Thị Nga Thạc sĩ Toán giải tích 7340101 Quản trị kinh doanh
+298. Nguyễn Thị Thanh Hải Tiến sĩ Quân trị kinh doanh 7340101 Quản trị kinh doanh
+299. Nguyễn Vũ Linh Thạc sĩ Kỹ thuật máy và thiết bị XD 7340101 Quản trị kinh doanh
+300. Phạm Chí Công Thạc sĩ Hình học và Topo 7340101 Quản trị kinh doanh
+301. Trần Minh Ngọc Thạc sĩ Công nghệ thông tin 7340101 Quản trị kinh doanh
+302. Trịnh Thị Lê Mai Thạc sĩ Toán học 7340101 Quản trị kinh doanh
+303. Trần Doãn Minh Thac sĩ Khoa học máy tính 7340101 Quản trị kinh doanh
+304. Đào Thanh Thuỷ Tiến sĩ Việt Nam học 7810201 Quản trị khách sạn
+305. Đỗ Thị Mẫn Tiến sĩ Quản trị kinh doanh 7810201 Quản trị khách sạn
+306. Lê Thị Lan Tiến sĩ Quân trị kinh doanh 7810201 Quản trị khách sạn
+307. Nguyễn Thị Loan Phó giáo su Tiến sĩ Quản trị kinh doanh 7810201 Quản trị khách sạn
+308. Nguyễn Thị Thanh Xuân Tiến sĩ Quản tri kinh doanh 7810201 Quản trị khách sạn
+309. Đào Thanh Xuân Tiến sĩ Địa lý học 7140219 Sư phạm Địa lý
+310. Lê Văn Trưởng Phó giáo su Tiến sĩ Địa lý học 7140219 Sư phạm Địa lý
+311. Nguyễn Thị Ngọc Tiến sĩ Địa lý 7140219 Sư phạm Địa lý
+312. Trịnh Thị Phan Tiến sĩ Địa lý 7140219 Sư phạm Địa lý
+313. Vũ Văn Duẩn Tiến sĩ Địa lí tự nhiên 7140219 Sư phạm Địa lý
+314. Đinh Ngọc Thức Phó giáo su Tiến sĩ Hóa học 7140212 Sư phạm Hoá học
+315. Hoàng Thị Hương Thuỷ Tiến sĩ Hóa hoc 7140212 Sư phạm Hoá học
+316. Nguyễn Thị Hường Tiến sĩ Hóa hữu cơ 7140212 Sư phạm Hoá học
+317. Nguyễn Thị Ngọc Vinh Tiến sĩ Hóa học 7140212 Sư phạm Hoá học
+318. Trịnh Thị Huấn Tiến sĩ Hóa học 7140212 Sư phạm Hoá học
+319. Hoàng Ngọc Thảo Phó giáo su Tiến sĩ Sinh học 7140247 Sư phạm Khoa học Tự nhiên
+320. Lê Đình Chắc Tiến sĩ Di truyền học 7140247 Sư phạm Khoa học Tự nhiên
+321. Ngô Xuân Lương Phó giáo su Tiến sĩ Hoá học (Hóa hữu cơ) 7140247 Sư phạm Khoa học Tự nhiên
+322. Nguyễn Thị Ngọc Mai Tiến sĩ Hoá học (Hóa hữu cơ) 7140247 Sư phạm Khoa học tự nhiên
+323. Nguyễn Thị Thảo Tiến sĩ Vật lý lý thuyết và vật lý toán 7140247 Sư phạm Khoa học tự nhiên
+324. Cao Thị Cúc Tiến sĩ Khoa học giáo dục (lý luận và lịch sử giáo dục) 7140218 Sư phạm Lịch sử
+325. Cao Xuân Hải Tiến sĩ Tâm lý học 7140218 Sư phạm Lịch sử
+326. Lê Thanh Thuỷ Tiến sĩ Lịch sử (Lịch sử Thế giới) 7140218 Sư phạm Lịch sử
+327. Nguyễn Thị Thuý Phó giáo su Tiến sĩ Sử học (Lịch sử Việt Nam) 7140218 Sư phạm Lịch sử
+328. Phạm Văn Hiền Tiến sĩ Khoa học giáo dục (lý luận và lịch sử giáo dục) 7140218 Sư phạm Lịch sử
+329. Chung Thị Thúy Tiến sĩ Ngữ văn (Lý luận văn học) 7140217 Sư phạm Ngữ văn
+330. Hoàng Thế Hoạt Thạc sĩ Giáo dục học 7140217 Sư phạm Ngữ văn
+331. Lê Hoàng Yến Thạc sĩ Ngôn ngữ Việt Nam 7140217 Sư phạm Ngữ văn
+332. Lê Thị Phượng Phó giáo sư Tiến sĩ Giáo dục học 7140217 Sư phạm Ngữ văn
+333. Lưu Thị Thanh Thủy Tiến sĩ Văn học và PPDH BM Văn- Tiếng việt 7140217 Sư phạm Ngữ văn
+334. Nguyễn Thị Hạnh Tiến sĩ Ngữ văn (Văn học nước ngoài) 7140217 Sư phạm Ngữ văn
+335. Nguyễn Thị Liên Thạc sĩ Văn học nước ngoài 7140217 Sư pham Ngữ văn
+336. Nguyễn Văn Thế Tiến sĩ Văn học (Văn học Việt Nam) 7140217 Sư phạm Ngữ văn
+337. Vũ Ngọc Định Thạc sĩ Hán nôm 7140217 Sư phạm Ngữ văn
+338. Đậu Bá Thìn Phó giáo sư Tiến sĩ Sinh học 7140213 Sư phạm Sinh học
+339. Hà Thị Hưong Tiến sĩ Khoa học Giáo dục 7140213 Sư phạm Sinh học
+340. Hoàng Văn Chính Tiến sĩ Sinh học (Thực vật học) 7140213 Sư phạm Sinh học
+341. Lê Thị Huyền Tiến sĩ Khoa học giáo dục 7140213 Sư phạm Sinh học
+342. Trịnh Thị Hương Tiến sĩ Sinh học 7140213 Sư phạm Sinh học
+343. Đặng Thị Nguyệt Thạc sĩ Tiếng Anh 7140231 Sư phạm Tiếng Anh
+344. Dư Thị Mai Thạc sĩ PPDH Tiếng Anh 7140231 Sư phạm Tiếng Anh
+345. Đỗ Thị Thanh Huyền Thạc sĩ Ngôn ngữ học ứng dụng và dạy học tiếng Anh 7140231 Sư phạm Tiếng Anh
+346. Hoàng Kim Thúy Thạc sĩ LL&PPGD Tiếng Anh 7140231 Sư phạm Tiếng Anh
+347. Hoàng Thị Minh Thạc sĩ LL&PPDH Tiếng Anh 7140231 Sư phạm Tiếng Anh
+348. Lê Thị Quế Tiến sĩ Văn học Việt Nam 7140231 Sư phạm Tiếng Anh
+349. Lê Thị Hiền Tiến sĩ Văn học (Văn hóa dân gian) 7140231 Sư phạm Tiếng Anh
+350. Lê Thị Hương Thạc sĩ LL&PPDH Tiếng Anh 7140231 Sư phạm Tiếng Anh
+351. Lê Thị Hương Thạc sĩ LL&PPDH Tiếng Anh 7140231 Sư phạm Tiếng Anh
+352. Lê Thị Nương Tiến sĩ Ngữ văn (Văn học Việt Nam) 7140231 Sư phạm Tiếng Anh
+353. Lê Thị Thu Huyền Thạc sĩ LL&PPDH Tiếng Anh 7140231 Sư phạm Tiếng Anh
+354. Lục Thị Mỹ Bình Thạc sĩ LL&PPDH Tiếng Anh 7140231 Sư phạm Tiếng Anh
+355. Ngọ Thị Loan Thạc sĩ LL&PPDH Tiếng Anh 7140231 Sư phạm Tiếng Anh
+356. Nguyễn Thị Hà Thạc sĩ LL&PPGD Tiếng Anh 7140231 Sư phạm Tiếng Anh
+357. Nguyễn Thị Hà Lan Phó giáo su Tiến sĩ Giáo dục học 7140231 Sư phạm Tiếng Anh
+358. Nguyễn Thị Quyết Tiến sĩ Tiếng Anh 7140231 Sư phạm Tiếng Anh
+359. Nguyễn Thị Việt Thạc sĩ LL&PPGD Tiếng Anh 7140231 Sư phạm Tiếng Anh
+360. Lê Minh Hiền Tiến sĩ Khoa học giáo dục 7140210 Sư phạm Tin học
+361. Nguyễn Mạnh An Phó giáo su Tiến sĩ Vật lý lý thuyết và vật lý toán 7140210 Sưphạm Tin học
+362. Nguyễn Thế Cường Tiến sĩ Khoa học ứng dụng 7140210 Sư phạm Tin học
+363. Nguyễn Trung Thanh Tiến sĩ LL&PPDH BM Toán 7140210 Sư phạm Tin học
+364. Trịnh Viết Cường Phó giáo sư Tiến sĩ Khoa học máy tính 7140210 Sư phạm Tin học
+365. Lê Thị Quỳnh Đại học Giáo dục quốc phòng An - ninh 7140210 Sư phạm Tin học
+366. Hà Thị Yến Thạc sĩ Đai số 7140209 Sư phạm Toán học
+367. Hoàng Lê Minh Tiến sĩ LL&PPDH BM Toán 7140209 Sư phạm Toán học
+368. Lê Anh Minh Tiến sĩ Toán học 7140209 Sư phạm Toán học
+369. Lê Huy Vũ Tiến sĩ Toán hoc 7140209 Sư phạm Toán học
+370. Lê Phương Chi Thạc sĩ Toán Giải tích 7140209 Sư phạm Toán học
+371. Lê Thị Thanh Tâm Thạc sĩ Cầu đường 7140209 Sư phạm Toán học
+372. Lê Trần Tình Tiến sĩ Toán học 7140209 Sư phạm Toán học
+373. Lê Xuân Dũng Tiến sĩ Toán học 7140209 Sư phạm Toán học
+374. Lương Thị Thu Thuỷ Thạc sĩ Toán giải tích 7140209 Sư phạm Toán học
+375. Mai Thị Ngọc Hằng Thạc sĩ Xây dựng Công trình thủy 7140209 Sư pham Toán học
+376. Nguyễn Thị Dung Thạc sĩ Hình học và topo 7140209 Sư phạm Toán học
+377. Nguyễn Thị Thu Thạc sĩ LL&PPDH Toán học 7140209 Sư phạm Toán học
+378. Trịnh Thị Hiền Thạc sĩ Xây dựng Công trình thủy 7140209 Sư phạm Toán học
+379. Lê Văn Hiệu Tiến sĩ Vật lý 7140211 Sư phạm Vật lý
+380. Nguyễn Thị Dung Tiến sĩ Vật lý lý thuyết 7140211 Sư phạm Vật lý
+381. Nguyễn Thị Hồng Tiến sĩ Vật lýhọc 7140211 Sư phạm Vật lý
+382. Trần Thị Hải Phó giáo sư Tiến sĩ Vật lý 7140211 Sư phạm Vật lý
+383. Nguyễn Thị Huệ Tiến sĩ Khoa học vật lý 7140211 Sư phạm Vật lý
+384. Bùi Thị Ninh Thạc sĩ Kinh doanh và Quản lý 7340201 Tài chính - Ngân hàng
+385. Dư Thị Hương Thạc sĩ Kinh tế chính trị 7340201 Tài chính Ngân - hàng
+386. Lê Đức Đat Tiến sĩ Tài chính- Ngân hàng 7340201 Tài chính Ngân - hàng
+387. Ngô Việt Hương Tiến sĩ Kinh tế 7340201 Tài chính - Ngân hàng
+388. Nguyễn Thị Mai Thạc sĩ Kinh tế quản trị 7340201 Tài chính Ngân - hàng
+389. Phạm Đức Anh Thạc sĩ Quản trị khách sạn du lịch 7340201 Tài chính - Ngân hàng
+390. Phạm Thị Thanh Giang Tiến sĩ Tài chính - ngân hàng 7340201 Tài chính - Ngân hàng
+391. Trịnh Thị Thu Huyền Tiến sĩ Tài chính- Ngân hàng 7340201 Tài chính - Ngân hàng
+392. Trịnh Thị Thuỳ Tiến sĩ Tài chính - Ngân hàng 7340201 Tài chính - Ngân hàng
+393. Dương Thị Thoan Tiến sĩ Tâm lý học 7310401 Tâm lý học
+394. Lê Thị Phương Nga Tiến sĩ Tâm lý họс 7310401 Tâm lý họс
+395. Lê Thị Thu Hà Phó giáo su Tiến sĩ Giáo dục học 7310401 Tâm lý học
+396. Lê Tuyết Mai Tiến sĩ Tâm lý học 7310401 Tâm lý học
+397. Nguyễn Thị Hải Lý Thạc sĩ Kinh tế chính trị 7310401 Tâm lý học
+398. Nguyễn Thị Mai Thac sĩ Cây trồng 7310401 Tâm lý học
+399. Nguyễn Thị Thanh Tiến sĩ Khoa học giáo dục (lý luận và lịch sử giáo dục) 7310401 Tâm lý học
+400. Tăng Nữ Tiểu Trang Thạc sĩ Luật dân sự và tố tụng dân sự 7310401 Tâm lý học
+401. Trần Minh Trang Thạc sĩ Luật học 7310401 Tâm lý học
+402. Nguyễn Đình Thịnh Thạc sĩ Khoa học máy tính 7310401 Tâm lý họс
+403. Đỗ Hoàng Mai Tiến sĩ Khoa học giáo dục (LL&PPDH Toán) 7460101 Toán học
+404. Hoàng Đình Hải Tiến sĩ Đại số và lý thuyệt  7460101 Toán học
+405. Lê Thị Oanh Tiến sĩ Lý thuyết xác suất và thống kê toán 7460101 Toán học
+406. Trương Thị Hiền Tiến sĩ Toán học 7460101 Toán học
+407. Đỗ Văn Lợi Tiến sĩ Toán giải tích 7460101 Toán học
+408. Lê Đình Nghiệp Tiến sĩ Khoa học máy tính 7320104 Truyền thông đa phương tiện
+409. Lê Thị Hợi Tiến sĩ Xã hội học 7320104 Truyền thông đa phương tiện
+410. Nguyễn T. Việt Hưng Tiến sĩ Việt Nam học 7320104 Truyền thông đa phương tiện
+411. Quách Công Năm Tiến sĩ Xã hội học 7320104 Truyền thông đa phương tiện
+412. Trần Văn Huy Tiến sĩ Hệ thống thông tin 7320104 Truyền thông đa phương tiện
+413. Cao Xuân Hải Tiến sĩ Ngữ văn (Ngôn ngữ học) 7229030 Văn học
+414. Hoàng Thị Huệ Tiến sĩ Ngữ văn (Văn học Việt Nam) 7229030 Văn học
+415. Lê Tú Anh Phó giáo su Tiến sĩ Ngữ văn (Văn học Việt Nam) 7229030 Văn học
+416. Nguyễn Thị Thanh Nga Tiến sĩ Ngữ văn (Văn học nước ngoài) 7229030 Văn học
+417. Vũ Thanh Hà Tiến sĩ Lý luận văn học 7229030 Văn học
