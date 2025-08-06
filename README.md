@@ -30,7 +30,10 @@ git clone https://github.com/yourusername/hdu-chatbot.git
 cd hdu-chatbot
 ```
 
-2. Chạy ứng dụng: streamlit run streamlit_app.py
+2. Chạy ứng dụng: 
+```bash
+streamlit run streamlit_app.py
+```
 Yêu cầu hệ thống
 Python >= 3.10
 
